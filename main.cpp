@@ -8,4 +8,3 @@ inizia(array,dim);
 cout<<maggiore(array,dim);
 return 0;
 }
-}

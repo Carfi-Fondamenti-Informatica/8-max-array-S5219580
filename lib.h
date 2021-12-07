@@ -1,2 +1,2 @@
-void inizia(int,int);
-int maggiore(int,int);
+void inizia(int array[],int b);
+int maggiore(int array[],int b);
